@@ -101,7 +101,7 @@
     "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
   },
   "global": {
-    "name": "thunderboltn",
+    "name": "Thunderboltn",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -109,7 +109,7 @@
       "support": "Support",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - thunderboltn",
+      "pagetitle": "{{title}} - Thunderboltn",
       "register": "Register",
       "settings": "Settings"
     }
