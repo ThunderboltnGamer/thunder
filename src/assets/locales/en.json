@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "movie-vault is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. movie-vault.lol runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+    "description": "I created this due to the shutdown of movie-web.app. movie-vault runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
     "faqTitle": "Common questions",
     "q1": {
       "body": "movie-vault does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by movie-vault, everything is through this searching mechanism.",
@@ -15,7 +15,7 @@
       "title": "The search results display the show or movie, why can't I play it?"
     },
     "q4": {
-      "body": "All data is synced to the sudo-backend which is different than the community backend and is independently hosted by me, anyone is free to use this as well.",
+      "body": "All data is synced to the movie-backend which is different than the community backend and is independently hosted by me, anyone is free to use this as well.",
       "title": "What about my data and stuff?"
     },
     "q5": {
@@ -101,7 +101,7 @@
     "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
   },
   "global": {
-    "name": "movie-vault",
+    "name": "thunder",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -109,7 +109,7 @@
       "support": "Support",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - movie-vault",
+      "pagetitle": "{{title}} - thunder",
       "register": "Register",
       "settings": "Settings"
     }
@@ -199,7 +199,7 @@
     "menu": {
       "about": "About us",
       "logout": "Log out",
-      "register": "Sync to sudo-cloud",
+      "register": "Sync to -cloud",
       "settings": "Settings",
       "support": "Support",
       "discover": "Discover"
@@ -467,18 +467,18 @@
     "title": "Support",
     "text": "movie-vault is designed to be as user-friendly as possible. However, people still have questions and issues. This page is here to help resolve these shortcomings",
     "q1": {
-      "body": "Well, you can join the official <0>movie-vault discord</0> and ask questions there or you can email the one provided at the bottom of this page.",
-      "title": "Where can I get help?"
+      "body": "Well, you can join the my local<0> discord</0>. Its open to anyone!",
+      "title": "Where can I chat with you?"
     },
     "q2": {
-      "body": "We have a <0>GitHub</0> where you can create a detailed issue in our repository. Additionally, if you wish, you can create a pull request to fix the issue yourself.",
-      "title": "How can I report a bug or issue?"
+      "body": "At the <0>Top</0> of the page",
+      "title": "How can I search movies?"
     }
   },
   "screens": {
     "dmca": {
-      "text": "Welcome to movie-vault's DMCA contact page. If you believe your copyrighted work has been improperly used on our platform (😢), please send a detailed DMCA notice to: <bold>{{dmca}}</bold> below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation.",
-      "title": "DMCA :("
+      "text": "Ultimate <bold>Sigma</bold>. You should try to watch a movie!",
+      "title": "Whats up?"
     },
     "loadingApp": "Loading application",
     "loadingUser": "Loading your profile",
