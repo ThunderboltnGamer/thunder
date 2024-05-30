@@ -74,10 +74,7 @@ export function HomePage() {
           <SearchListPart searchQuery={search} />
         ) : (
           <>
-            <div className="flex flex-col gap-8">
-              <BookmarksPart onItemsChange={setShowBookmarks} />
-              <WatchingPart onItemsChange={setShowWatching} />
-            </div>
+            
           </>
         )}
       </WideContainer>
