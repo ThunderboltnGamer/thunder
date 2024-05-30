@@ -12,7 +12,7 @@ export function AdminPage() {
     <SubPageLayout>
       <ThinContainer>
         <Heading1>Admin tools</Heading1>
-        <Paragraph>Use there to help around! ૮₍´˶• . • ⑅ ₎ა</Paragraph>
+        <Paragraph>Use these to help around! ૮₍´˶• . • ⑅ ₎ა</Paragraph>
 
         <ConfigValuesPart />
         <BackendTestPart />
