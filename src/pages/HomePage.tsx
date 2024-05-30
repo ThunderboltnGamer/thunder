@@ -64,7 +64,7 @@ export function HomePage() {
           className="px-py p-[0.75em] rounded-xl text-type-dimmed box-content text-[18px] bg-largeCard-background text-buttons-secondaryText justify-center items-center"
           onClick={() => navigate("/discover")}
         >
-          🎥 How about something new?
+          🎥 Want something new?
         </Button>
       </div>
       <WideContainer>
