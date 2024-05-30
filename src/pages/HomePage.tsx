@@ -75,8 +75,7 @@ export function HomePage() {
         ) : (
           <>
             <div className="flex flex-col gap-8">
-              <BookmarksPart onItemsChange={setShowBookmarks} />
-              <WatchingPart onItemsChange={setShowWatching} />
+              
             </div>
           </>
         )}
